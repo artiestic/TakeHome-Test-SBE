@@ -50,4 +50,3 @@ Please provide a GitHub link to your solution no later than Monday December 4, (
      - Address any privacy or data handling concerns.
    - **Evaluation Criteria:** User-centric design, understanding of privacy concerns, and ability to implement custom user settings.
 
-Each of these challenges is designed to be comprehensive yet achievable within a few hours for a skilled developer. They collectively assess a range of skills from API design, database modeling, real-time processing, to user-centric features, providing a holistic view of the candidate's abilities and approach.
